@@ -34,10 +34,6 @@ This bengali resource-based repo contains tutorials on DSA, System Principles, D
 
 ### Frontend development
 
-[0. MIT missing semester](https://missing.csail.mit.edu/)
-
-Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. MIT missing semester will teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
-
 [1. FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design-v9/)
 
 This course teaches the fundamentals of HTML and CSS, including modern layout, design, accessibility, and responsive web development. You'll build practical projects and gain the skills to create professional, user-friendly webpages.
@@ -110,6 +106,7 @@ Classes teach you all about advanced topics within CS, from operating systems to
 
 [15. Python inner working by Chai aur Code (Hindi)](https://youtu.be/3HTKc-ZgZbg?si=tkQaBKr7WFQabMLi)
 
+### Databases
 [16. Harvard CS50 intro to Database with SQL ](https://youtu.be/WXk7yDqsKxs?si=AY8EmPZVfFmaNLO6)
 
 [17. SQL for beginners by CodeWithHarry (Hindi)](https://youtu.be/yE6tIle64tU?si=MD6CDGRCrZMDEkRD)
