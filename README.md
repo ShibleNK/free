@@ -16,9 +16,7 @@ Classes teach you all about advanced topics within CS, from operating systems to
 
 Harvard University's Computer Science 50 program, or CS50, is a collection of introductory computer science courses designed for students at all levels who want to learn foundational and advanced computing concepts.
 
-[3. OSSU computer science curriculum]
-
-(https://github.com/ossu/computer-science)
+[3. OSSU computer science curriculum](https://github.com/ossu/computer-science)
 
 **Open Source Society University is a community of students of all levels, completing a comprehensive, project based, open-source computer science curriculum, helping each other and sharing their experiences and code through github and community forums.**
 
