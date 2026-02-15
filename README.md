@@ -30,7 +30,7 @@ This bengali resource-based repo contains tutorials on DSA, System Principles, D
 
 ## Web development
 
-**To understand web development, you should learn at least the basics of the backend if you want to be an expert in frontend, and vice versa. Also, the 0th course is necessary to understand the basics of computer science to implement it in the development. AndAnd I've added some behind-the-scenes details of how some of these technologies work, because it'll give you an idea from the engineering point of view.**
+**To understand web development, you should learn at least the basics of the backend if you want to be an expert in frontend, and vice versa. Also, the 0th course is necessary to understand the basics of computer science to implement it in the development. And I've added some behind-the-scenes details of how some of these technologies work, because it'll give you an idea from the engineering point of view.**
 
 ### Frontend development
 
