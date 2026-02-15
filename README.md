@@ -58,7 +58,7 @@ This course teaches you core JavaScript programming concepts such as working wit
 
 [8. Chai aur Typescript by Chai aur Code (Hindi)](https://youtube.com/playlist?list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&si=gHCUh0xm26Kupj6f)
 
-[9. Learn React by Scrimba]([https://scrimba.com/learn-react-c0e](https://scrimba.com/learn-react-c0e:about))
+[9. Learn React by Scrimba](https://scrimba.com/learn-react-c0e)
 
 Learn modern React basics interactively. You'll tackle 170+ coding challenges and build six projects, gaining confidence to create real-world applications.
 
