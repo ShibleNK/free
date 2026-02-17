@@ -27,6 +27,9 @@ Harvard University's Computer Science 50 program, or CS50, is a collection of in
 This bengali resource-based repo contains tutorials on DSA, System Principles, Design Pattern, Artificial Intelligence, Machine Learning, Database Design, different kinds of programming languages etc. links.
 
 [2. Ebook resource for any language](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file&fbclid=IwVERTSAO8nYJleHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7acYS1KYD8nk7bH1QWqBCzDfVvjDGkq_4IDMa2oPGR4sK1MMESEVbePdu0Ew_aem_QaFlarbVCvIEv3L9h50ffw)
+This list was originally a clone of StackOverflow - List of Freely Available Programming Books with contributions from Karan Bhangui and George Stocker.
+
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of GitHub's most popular repositories.
 
 ## Web development
 
