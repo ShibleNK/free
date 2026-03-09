@@ -32,7 +32,7 @@ This list was originally a clone of StackOverflow - List of Freely Available Pro
 
 ## Web development
 
-**To understand web development, you should learn at least the basics of the backend if you want to be an expert in frontend, and vice versa. Also, the 0th course is necessary to understand the basics of computer science to implement it in the development. And I've added some behind-the-scenes details of how some of these technologies work, because it'll give you an idea from the engineering point of view.**
+**To understand web development, you should learn at least the basics of the backend if you want to be an expert in frontend, and vice versa. Also, the 0th course is necessary to understand the basics of computer science to implement it in the development. And I've added some behind-the-scenes details of how some of these technologies work, because it'll give you an idea from the engineering point of view. Courses on Scrimba, boot.dev are consistently updating, even though tutorials on YouTube can be outdated but those websites will be updated. Also, YouTube's tutorials will still be relevant even if they're outdated.**
 
 ### Frontend development
 
