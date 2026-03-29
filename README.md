@@ -100,7 +100,7 @@ Classes teach you all about advanced topics within CS, from operating systems to
 
 [10. Python Backend Development by FreeCodeCamp)](https://youtu.be/jBzwzrDvZ18?si=Pdb_7id_UDH9OE2a)
 
-[11. Python Tutorial for Beginners by CodeWithHarry (Hindi)](https://youtu.be/UrsmFxEIp5k?si=uZlDYZ7ZxB2b4ZQO)
+[11. Chai aur Python by Chai aur Code (Hindi)](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s)
 
 [12. Python Django by CodeWithHarry (hindi)](https://youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9&si=IS0Hi5gjLN0HXmDM)
 
