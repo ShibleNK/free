@@ -122,10 +122,14 @@ Classes teach you all about advanced topics within CS, from operating systems to
 
 [20. PostgreSQL by FreeCodeCamp](https://youtu.be/qw--VYLpxG4?si=2C72isqluavpNPC0)
 
-[21. CRUD API tutorial - Node, Express, MongoDB by FreeCodeCamp](https://youtu.be/_7UQPve99r4?si=zO3LzqtuhtluCXZD) 
+[21. MongoDB Node.js Developer Path by MongoDB University](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path)
+This learning path contains a series of courses to teach you MongoDB skills. In this path, you’ll learn the basics of building modern applications with Node.JS, using MongoDB as your database. Before continuing in this make sure to complete the 0th curriculum.
 
-[22. MongoDB with python](https://youtu.be/E-1xI85Zog8?si=WDotiUlpUa5FFs6z)
 
-[23. MongoDB crash course by Coder’s Gyan (Hindi)](https://youtu.be/22oqSaTsn08?si=dggxb5q0kGC9x6D8)
+[22. CRUD API tutorial - Node, Express, MongoDB by FreeCodeCamp](https://youtu.be/_7UQPve99r4?si=zO3LzqtuhtluCXZD) 
 
-[24. MongoDB crash course by Study Mart (Bengali)](https://youtube.com/playlist?list=PLKdU0fuY4OFe5tIAh3FB8avnQBD5FFXvE&si=VAaWc_LYSMIVa9I9)
+[23. MongoDB with python](https://youtu.be/E-1xI85Zog8?si=WDotiUlpUa5FFs6z)
+
+[24. MongoDB crash course by Coder’s Gyan (Hindi)](https://youtu.be/22oqSaTsn08?si=dggxb5q0kGC9x6D8)
+
+[25. MongoDB crash course by Study Mart (Bengali)](https://youtube.com/playlist?list=PLKdU0fuY4OFe5tIAh3FB8avnQBD5FFXvE&si=VAaWc_LYSMIVa9I9)
